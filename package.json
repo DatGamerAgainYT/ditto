@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "better-sqlite3": "^7.6.2",
+    "discord-eris-embeds": "^1.0.4",
+    "eris": "^0.17.1",
+    "quick.db": "^9.0.6"
+  }
+}
